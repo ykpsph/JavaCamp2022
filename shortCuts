@@ -1,0 +1,10 @@
+ctrl + 1 : 				quick fix
+ctrl + o : 				for quick outline going quicly to a method
+ctrl + shift + w : 		closing all the files
+ctrl + l : 				go to line
+ctrl + shift + f : 		select text and format
+ctrl + d : 				delete a line
+ctrl + q : 				for going to last edited place
+ctrl + shift + enter : 	insert a line above the current line
+ctrl + shift + o : 		automatically insert needed imports
+ctrl + space + r : 		opens the content assist window
