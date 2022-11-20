@@ -1,6 +1,8 @@
 package ders03.core.logging;
 
-public class DatabaseLogger implements ILogger {
+import gun03.odev03.core.logger.Logger;
+
+public class DatabaseLogger implements Logger {
 
 	@Override
 	public void log(String data) {
